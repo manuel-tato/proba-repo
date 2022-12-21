@@ -3,3 +3,4 @@
 ```bash
 git init
 ```
+> Inicialización do repo local
